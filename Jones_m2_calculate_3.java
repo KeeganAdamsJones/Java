@@ -1,7 +1,7 @@
 /*
 Keegan Jones
 1/11/2021
-M2 Assignment - Calculate Energy
+Calculate Energy
  */
 package jones_m2_calculate_3;
 
