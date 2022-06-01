@@ -2,8 +2,7 @@ package division;
 
 /*
 Keegan Jones
-Java csd 405
-Module 6 Assignment - Abstract Classes
+Abstract Classes
 4/12/2021
 
 ** Create an abstract Division class with fields for a company's division name and 
